@@ -16,7 +16,7 @@ Runoff : CLSM, GRUN, GRUN_CRUST, GRUN_era5, GRUN_merra2, GRUN_wfde5, NOAH, VIC (
 
 ET Initial : ERA5
 
-Total no of combinations = 96 (8*4*3)
+Total no of combinations = 96 (8x4x3)
 
 ##### *withoutGRUN
 
@@ -29,7 +29,7 @@ Runoff : CLSM, GRUN_CRUST, GRUN_era5, GRUN_merra2, GRUN_wfde5, NOAH, VIC (For CL
 
 ET Initial : ERA5
 
-Total no of combinations = 84 (7*4*3)
+Total no of combinations = 84 (7x4x3)
 
 Code Developer:
 Netra S. Pillai
